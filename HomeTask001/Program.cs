@@ -18,3 +18,4 @@ if(n < 100 || n >= 1000)
   Console.WriteLine($"Введено не корректное число '{n}', повторите ввод!");
 else
   Console.WriteLine($"Второе число '{Volue(n)}'");
+  

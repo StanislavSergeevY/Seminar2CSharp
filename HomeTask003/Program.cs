@@ -17,3 +17,4 @@ if( day > 0 && day < 8)
     Console.WriteLine($"Сегодня {array[day-1]}, иди на работу!");
 else
   Console.WriteLine("Введено не корректное значение!");
+  

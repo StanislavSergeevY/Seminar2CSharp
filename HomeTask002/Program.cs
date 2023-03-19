@@ -16,3 +16,4 @@ if(n / 100 == 0)
     Console.WriteLine(n = n / 100 % 10);
   else
     Console.WriteLine(n = n % 10);
+    
